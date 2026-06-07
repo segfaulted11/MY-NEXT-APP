@@ -1,5 +1,10 @@
 import Link from "next/link";
 
+export const metadata = {
+  title : "Blogs",
+  description : "All Blogs Here!"
+}//changing the title of the blogs page (its only going to change the title of this page)
+
 const Blogs = () => {
   const blogs = [
     {

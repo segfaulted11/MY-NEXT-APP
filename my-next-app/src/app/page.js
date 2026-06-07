@@ -5,7 +5,7 @@ export default function Home() {
   return (
 <div>
 <h2>Next JS!!!!</h2>
-<Image src={`/vercel.svg`} alt="vercel img" width={500} height={300}></Image>
+<Image src="/random.jpg" alt="vercel img" width={500} height={300}></Image>
 </div>
   
   );
